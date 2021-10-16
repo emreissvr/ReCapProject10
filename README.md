@@ -1,2 +1,2 @@
-# ReCapProject 7 
-## Autofac Configuration
+# ReCapProject 10
+## JWT (json web token) configuration
